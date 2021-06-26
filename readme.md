@@ -5,5 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ventura&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img src="/icon-html5.svg">
+    <img align="center" height="30" width="40" src="/icon-css3.svg" alt="sam-CSS">
+    <img align="center" height="30" width="40" src="/icon-html5.svg" alt="sam-HTML">
+    <img align="center" height="30" width="40" src="/icon-js.svg" alt="sam-js">
+    <img align="center" height="30" width="40" src="/icon-python.svg" alt="sam-python">
 </div>
