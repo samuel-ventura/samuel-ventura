@@ -4,6 +4,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ventura&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+  
+  ##
+  
+<h3><strong>Estou Estudando e/ou usando essas linguagens</strong></h3>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="/icon-css3.svg" alt="sam-CSS">
   <img align="center" height="30" width="40" src="/icon-html5.svg" alt="sam-HTML">
@@ -12,8 +16,6 @@
 </div>
   
   ##
-  
-  <h3><strong>Estou Estudando e/ou usando essas linguagens</strong></h3>
   
 <div>
   <a href="https://www.instagram.com/sam_ph7/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23F96EBA%20?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
