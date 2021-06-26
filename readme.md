@@ -10,3 +10,11 @@
     <img align="center" height="30" width="40" src="/icon-js.svg" alt="sam-js">
     <img align="center" height="30" width="40" src="/icon-python.svg" alt="sam-python">
 </div>
+  
+  ## 
+
+<div>
+    <a href="https://www.instagram.com/sam_ph7/" target="_blank"> <img src="https://img.shields.io/twitter/url?color=FF6EBD&label=INSTAGRAM&logo=instagram&logoColor=white&style=for-the-badge" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/samuel-ventura/" target="_blank"></a>
+    <a href="https://www.twitch.tv/thenoobfps" target="_blank"></a>
+</div>
