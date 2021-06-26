@@ -9,8 +9,8 @@
   
 <h3><strong>Estou Estudando e/ou usando essas linguagens</strong></h3>
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="/icon-css3.svg" alt="sam-CSS">
   <img align="center" height="30" width="40" src="/icon-html5.svg" alt="sam-HTML">
+  <img align="center" height="30" width="40" src="/icon-css3.svg" alt="sam-CSS">
   <img align="center" height="30" width="40" src="/icon-js.svg" alt="sam-js">
   <img align="center" height="30" width="40" src="/icon-python.svg" alt="sam-python">
 </div>
