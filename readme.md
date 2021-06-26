@@ -1,4 +1,4 @@
-## Oii, Me chamo Samuel Ventura 
+## Oii <3 Me chamo Samuel Ventura 
 <div>
   <a href="https://github.com/samuel-ventura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
