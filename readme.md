@@ -1,8 +1,8 @@
 ## Oii, Me chamo Samuel Ventura 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/samuel-ventura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ventura&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ventura&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="/icon-css3.svg" alt="sam-CSS">
