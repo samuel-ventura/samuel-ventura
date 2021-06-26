@@ -13,8 +13,8 @@
   
   ## 
   
-  <div>
+<div>
     <a href="https://www.instagram.com/sam_ph7/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23F96EBA%20?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/samuel-ventura/" target="_blank"></a>
-    <a href="https://www.twitch.tv/thenoobfps" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/samuel-ventura/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%232E5CF6?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/thenoobfps" target="_blank"> <img src="https://img.shields.io/badge/-Twitch-%23D100FA?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
