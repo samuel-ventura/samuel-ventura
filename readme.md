@@ -1,4 +1,5 @@
-## <h1 align="center"> Bem Vindo(a) <3 Me chamo Samuel Ventura </h1>
+##
+<h1 align ="center" style="font-style: italic; color: #F781F3;">Bem-vindo(a) <3 Me chamo Samuel</h1>
 <div align="center">
   <a href="https://github.com/samuel-ventura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
