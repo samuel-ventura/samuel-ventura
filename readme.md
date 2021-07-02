@@ -1,13 +1,6 @@
 ##
 <h2 align ="center">Bem-vindo(a) <3 Me chamo Samuel</h2>
-<div align="center">
-  <a href="https://github.com/samuel-ventura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ventura&langs_count=16&theme=dracula"/>
-</div>
-  
-  ##
-  
+
 <h3 align="center"><strong>Estou Estudando e/ou usando essas linguagens</strong></h3>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="/icon-html5.svg" alt="sam-HTML">
@@ -16,6 +9,14 @@
   <img align="center" height="30" width="40" src="/icon-python.svg" alt="sam-python">
 </div>
   
+  ##
+  
+<div align="center">
+  <a href="https://github.com/samuel-ventura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ventura&langs_count=16&theme=dracula"/>
+</div>
+    
   ##
   
 <div align="center">
