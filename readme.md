@@ -1,5 +1,5 @@
 ##
-<h1 align ="center" style="font-style: italic; color: #F781F3;">Bem-vindo(a) <3 Me chamo Samuel</h1>
+<h2 align ="center">Bem-vindo(a) <3 Me chamo Samuel</h2>
 <div align="center">
   <a href="https://github.com/samuel-ventura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,7 @@
   
   ##
   
-<h3 align="center" style="font-style: italic;"><strong>Estou Estudando e/ou usando essas linguagens</strong></h3>
+<h3 align="center"><strong>Estou Estudando e/ou usando essas linguagens</strong></h3>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="/icon-html5.svg" alt="sam-HTML">
   <img align="center" height="30" width="40" src="/icon-css3.svg" alt="sam-CSS">
