@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-ventura&langs_count=16&theme=dracula"/>
 </div>
     
-  ##
+##
    
 <h3 align="center"><strong>estou estudando e/ou usando essas linguagens</strong></h3>
 <div align="center" style="display: inline_block">
@@ -16,7 +16,7 @@
   <img align="center" height="30" width="40" src="/icon-python.svg" alt="sam-python">
 </div>
   
-  ## 
+## 
   
 <div align="center">
   <a href="https://twitter.com/thenoobfps" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A1FC%20?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
