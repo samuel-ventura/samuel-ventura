@@ -20,7 +20,7 @@
   
 <div align="center">
   <a href="https://twitter.com/thenoobfps" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A1FC%20?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/sam_ph7/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23F96EBA%20?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/osamuelventura/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23F96EBA%20?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/thenoobfps" target="_blank"> <img src="https://img.shields.io/badge/-Twitch-%23D100FA?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-ventura/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%232E5CF6?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
 </div>
