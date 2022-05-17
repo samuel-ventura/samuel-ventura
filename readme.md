@@ -1,5 +1,5 @@
 ##
-<h2 align ="center">Olá, Meu nome é Samuel</h2>
+<h2 align ="center">Olá, Meu Nome É Samuel 💜</h2>
 <div align="center">
   <a href="https://github.com/samuel-ventura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,8 +8,11 @@
     
 ##
    
-<h3 align="center"><strong>estou utilizando essas linguagens</strong></h3>
+<h3 align="center"><strong>Linguagens Que Uso</strong></h3>
 <div align="center" style="display: inline_block">
+  <img align="center" height="30" width="40" src="/icon-typescript.svg" alt="TypeScript-icon">
+  <img align="center" height="30" width="40" src="/icon-react.svg" alt="ReactJS-icon">
+  <img align="center" height="30" width="40" src="/icon-nodejs.svg" alt="NodeJS-icon">
   <img align="center" height="30" width="40" src="/icon-html5.svg" alt="HTML-icon">
   <img align="center" height="30" width="40" src="/icon-css3.svg" alt="CSS-icon">
   <img align="center" height="30" width="40" src="/icon-js.svg" alt="js-icon">
