@@ -10,7 +10,7 @@
    
 <h3 align="center"><strong>Linguagens Que Uso</strong></h3>
 <div align="center" style="display: inline_block">
-  <img align="center" height="30" width="40" src="/icon-typescript.svg" alt="TypeScript-icon">
+  <img align="center" src="/icon-typescript.svg" alt="TypeScript-icon">
   <img align="center" height="30" width="40" src="/icons-react.svg" alt="ReactJS-icon">
   <img align="center" height="30" width="40" src="/icon-nodejs.svg" alt="NodeJS-icon">
   <img align="center" height="30" width="40" src="/icon-html5.svg" alt="HTML-icon">
