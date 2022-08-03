@@ -1,4 +1,11 @@
 # Samuel Ventura
+
+Analista de Testes @Brisanet.
+
+[![Twitter Badge](https://img.shields.io/badge/-@osamuelventura-3c1361?style=flat-square&labelColor=3c1361&logo=twitter&logoColor=white&link=https://twitter.com/osamuelventura)](https://twitter.com/osamuelventura)
+[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Ventura-3c1361?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-ventura/)](https://www.linkedin.com/in/samuel-ventura/)
+[![Gmail Badge](https://img.shields.io/badge/-samuelventura.contato@gmail.com-3c1361?style=flat-square&labelColor=3c1361&logo=gmail&logoColor=white&link=mailto:samuelventura.contato@gmail.com)](mailto:samuelventura.contato@gmail.com)
+
 <div align="left">
   <a href="https://github.com/samuel-ventura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-ventura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,12 +21,4 @@
   <img align="center" height="30" width="40" src="/icon-css3.svg" alt="CSS-icon">
   <img align="center" height="30" width="40" src="/icon-js.svg" alt="js-icon">
   <img align="center" height="30" width="40" src="/icon-python.svg" alt="python-icon">
-</div>
-  
-#  
-<div align="left">
-  <a href="https://twitter.com/thenoobfps" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%2300A1FC%20?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/osamuelventura/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23F96EBA%20?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/thenoobfps" target="_blank"> <img src="https://img.shields.io/badge/-Twitch-%23D100FA?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuel-ventura/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%232E5CF6?style=for-the-badge&logo=linkedIn&logoColor=white"></a>
 </div>
