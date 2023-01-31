@@ -1,6 +1,6 @@
 # Samuel Ventura
 
-QA Analyst @Brisanet.
+Web Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-@osamuelventura-3c1361?style=flat-square&labelColor=3c1361&logo=twitter&logoColor=white&link=https://twitter.com/osamuelventura)](https://twitter.com/osamuelventura)
 [![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Ventura-3c1361?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-ventura/)](https://www.linkedin.com/in/samuel-ventura/)
